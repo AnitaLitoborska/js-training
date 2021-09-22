@@ -1,0 +1,6 @@
+const body = document.body
+const div = document.querySelector("div")
+const spanJeansy = document.querySelector("#jeansy")
+const spanBye = document.querySelector("#bye")
+
+console.log(spanJeansy.dataset)
